@@ -4,6 +4,7 @@ variable "ami_id" {
     description = "AMI ID of the EC2 instance"
 }
 
+# EC2 instance type variable with validation for allowed values
 variable "instance_type" {
     default = "t3.micro"
     type = string
