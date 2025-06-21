@@ -8,7 +8,7 @@ You can create EC2 instance in bharathdevops using this module
 * sg_ids (Required) - A list of Security Group IDS to attach instance
 * tags (Required) - A map of tags to be associated with instance
 
-<!-- ## Outputs
+## Outputs
 * public_ip - Public IP of the instance created
 * private_ip - Private IP of the instance created
-* instance_id - Instance ID of the instance created -->
+* instance_id - Instance ID of the instance created
