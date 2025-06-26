@@ -1,5 +1,5 @@
 # AWS EC2 instance
-You can create EC2 instance in bharathdevops using this module
+You can create EC2 instance in bharathdevops(company name) using this module
 
 ## Inputs
 
